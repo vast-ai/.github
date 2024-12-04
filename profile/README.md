@@ -1,4 +1,4 @@
-# Vast.ai Official Organization
+# Vast.ai
 
 **Vast.ai** is a cutting-edge GPU cloud platform that connects users with providers of affordable, high-performance GPU compute resources. Our mission is to democratize access to GPU computing power for AI researchers, developers, and anyone in need of scalable GPU resources.
 
