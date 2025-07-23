@@ -7,13 +7,16 @@
 ## 🔑 Key Projects
 
 - [**vast-python**](https://github.com/vast-ai/vast-python): Official Python client library for interacting with the Vast.ai API.
+- [**vast-cli**](https://github.com/vast-ai/vast-cli): Official command line interface for interacting with the Vast.ai API.
 
 ---
 
 ## 📚 Resources
 
 - **Website:** [https://vast.ai](https://vast.ai)
-- **Documentation:** [https://vast.ai/docs](https://vast.ai/docs)
+- **Documentation:** [https://docs.vast.ai](https://docs.vast.ai)
+- **Console:** [https://cloud.vast.ai](https://cloud.vast.ai)
+- **Templates:** [https://cloud.vast.ai/templates/](https://cloud.vast.ai/templates/)
 - **Support Email:** [support@vast.ai](mailto:support@vast.ai)
 - **Twitter:** [@Vast_ai](https://twitter.com/vast_ai)
 
